@@ -81,13 +81,11 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                      Full-Stack Developer{" "}
+                        <span>Software Developer</span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                      I have always loved learning and developing my programming skills and working with it.
                       </p>
                       <div className="btn-wrapper">
                         <Button
@@ -148,12 +146,13 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                          emergency-advisor/201project 
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          The main  idea of ​​the project depends on finding
+                            medical assistance in emergency cases and also includes
+                            an important set of services provided to the patient
+                            or to any other person
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
@@ -184,12 +183,13 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                          Buss Mall
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          This is a project that depends on making statistics by displaying
+                            a set of images that differ each time for display, and voting is done
+                            by clicking on the desired image and then displaying the number of times
+                            this image is selected.
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
@@ -220,12 +220,15 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Prepare Launch
+                          Safe heater
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          The graduation project from the university was based on
+                            the installation of a device accompanying the heater and
+                            it measures the percentage of carbon dioxide in the
+                            atmosphere if it exceeds the normal percentage, it warns
+                            the people present to ventilate the place in order to obtain
+                            a greater percentage of oxygen
                           </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
@@ -359,12 +362,15 @@ class Landing extends React.Component {
                         />
                       </svg>
                       <h4 className="display-3 font-weight-bold text-white">
-                        Design System
+                     Education
                       </h4>
                       <p className="lead text-italic text-white">
-                        The Arctic Ocean freezes every winter and much of the
-                        sea-ice then thaws every summer, and that process will
-                        continue whatever happens.
+                      - Al-Hussein Bin Talal University - College of Engineering 2006-2011
+                        Bachelor of Computer Engineering
+
+                        -  Abdul Aziz AlGhurair School Of Advanced Computing (ASAC)_LTUC
+                        MAY2021
+                        Diploma Of Programming and Database
                       </p>
                     </blockquote>
                   </Card>
@@ -374,21 +380,15 @@ class Landing extends React.Component {
                     <div className="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5">
                       <i className="ni ni-settings" />
                     </div>
-                    <h3>Our customers</h3>
+                    <h3>Training courses</h3>
                     <p className="lead">
-                      Don't let your uses guess by attaching tooltips and
-                      popoves to any element. Just make sure you enable them
-                      first via JavaScript.
+                    - CCNA Networking Course
                     </p>
                     <p>
-                      The kit comes with three pre-built pages to help you get
-                      started faster. You can change the text and images and
-                      you're good to go.
+                    - Progress Report Writing \March,2012, Report Writing Course
                     </p>
                     <p>
-                      The kit comes with three pre-built pages to help you get
-                      started faster. You can change the text and images and
-                      you're good to go.
+                    - The basics of strategic management
                     </p>
                     <a
                       className="font-weight-bold text-warning mt-5"
